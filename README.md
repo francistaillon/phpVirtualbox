@@ -1,6 +1,14 @@
 # docker-phpvirtualbox
 
-This is a fork of [clue/phpvirtualbox](https://hub.docker.com/r/clue/phpvirtualbox/), because it is not very up to date and there are no further configuration options.
+This is a fork of [jazzdd/phpvirtualbox](https://github.com/jazzdd86/phpVirtualbox) to support virtualbox 6.1. I used [cesium147/phpvirtualbox](https://github.com/cesium147/phpvirtualbox/tree/6.1-0) which suports VBox6.1 (main branch of phpvirtualbox is still at 5.x). 
+It was tested and working on Ubuntu server 18.04.3. 
+
+If you ask for support, I'll do my best, but this is my first experience with docker build and github...and I know nothing of PHP. I just connected the work of people much more knowledgable than me (Big Thanks to them!). 
+
+Now I need to figure out how to upload the image to docker hub!
+
+
+Below is the rest of jazzdd instructions:
 
 ## phpVirtualBox
 
